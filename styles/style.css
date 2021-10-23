@@ -1,0 +1,21 @@
+body{
+    background-color:#0f0e17;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+nav a:hover{
+    color:#fdd841;
+    text-decoration:underline 2px #fdd841 ;
+}
+
+.btn-warning{
+    background: #fdd841;
+    min-width: 5em;
+}
+
+.template-movie img{
+   border-radius: 6px;
+}
